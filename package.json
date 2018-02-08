@@ -1,5 +1,5 @@
 {
-  "name": "react-native-camera",
+  "name": "@whatever/react-native-camera",
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "1.0.0",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
@@ -25,7 +25,7 @@
     "pre-commit": "^1.2.2",
     "prettier": "^1.9.2"
   },
-  "homepage": "https://github.com/react-native-community/react-native-camera",
+  "homepage": "https://github.com/whatever-company/react-native-camera",
   "keywords": [
     "barcode",
     "camera",
@@ -48,7 +48,7 @@
   "pre-commit": "lint:staged",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-camera.git"
+    "url": "https://github.com/whatever-company/react-native-camera.git"
   },
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
